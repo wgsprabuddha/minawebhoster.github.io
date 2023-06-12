@@ -1,0 +1,13 @@
+.slideshow-container {
+  position: relative;
+}
+
+.slide {
+  display: none;
+  width: 100%;
+  height: auto;
+}
+
+.active {
+  display: block;
+}
